@@ -1,0 +1,9 @@
+// 파일명 앞에 언더스코어 _  <- 가 붙은 아이들을 임포트 시켜서 (합쳐서) 컴파일 합니다. (뽑는다는 뜻)
+
+//reset css
+@import "default";
+//layout
+@import "header";
+@import "mainPage";
+@import "footer";
+@import "subPages";
